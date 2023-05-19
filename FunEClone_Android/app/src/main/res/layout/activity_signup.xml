@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:paddingHorizontal="32dp"
+    tools:context=".Views.Activitys.SigninActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Sign Up"
+            android:textStyle="bold"
+            android:textSize="40sp"
+            android:textColor="@color/black"
+            android:letterSpacing="0.01"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Welcome to funE"
+            android:layout_marginBottom="20dp"
+            android:letterSpacing="0.05"
+            android:textSize="18sp"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:weightSum="5"
+            android:layout_marginVertical="15dp"
+            android:background="@drawable/bg_input_text">
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_weight="0.7"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:src="@drawable/email"/>
+            <EditText
+                android:id="@+id/edt_email"
+                android:layout_width="0dp"
+                android:layout_weight="4.3"
+                android:layout_height="match_parent"
+                android:hint="Enter username"
+                android:textSize="14sp"
+                android:inputType="text"
+                android:padding="5dp"
+                android:background="@android:color/transparent"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:weightSum="5"
+            android:layout_marginVertical="15dp"
+            android:background="@drawable/bg_input_text">
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_weight="0.7"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:rotationY="180"
+                android:src="@drawable/password"/>
+            <EditText
+                android:id="@+id/edt_password"
+                android:layout_width="0dp"
+                android:layout_weight="3.6"
+                android:layout_height="match_parent"
+                android:hint="Password"
+                android:textSize="14sp"
+                android:inputType="textPassword"
+                android:padding="5dp"
+                android:background="@android:color/transparent"/>
+            <ImageButton
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="0.7"
+                android:src="@drawable/eye"
+                android:background="@android:color/transparent"
+                app:tint="@color/grey" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:weightSum="5"
+            android:layout_marginVertical="15dp"
+            android:background="@drawable/bg_input_text">
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_weight="0.7"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:rotationY="180"
+                android:src="@drawable/reset_password"/>
+            <EditText
+                android:id="@+id/edt_confirm_password"
+                android:layout_width="0dp"
+                android:layout_weight="3.6"
+                android:layout_height="match_parent"
+                android:hint="Confirm Password"
+                android:textSize="14sp"
+                android:inputType="textPassword"
+                android:padding="5dp"
+                android:background="@android:color/transparent"/>
+            <ImageButton
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="0.7"
+                android:src="@drawable/eye"
+                android:background="@android:color/transparent"
+                app:tint="@color/grey" />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Signup with phone"
+            android:textStyle="bold"
+            android:textSize="14sp"
+            android:letterSpacing="0.04"
+            android:layout_gravity="right"/>
+
+        <Button
+            android:id="@+id/btn_signup"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            app:backgroundTint="@null"
+            android:background="@drawable/bg_main_button"
+            android:text="Sign Up"
+            android:textStyle="bold"
+            android:layout_marginTop="24dp"
+            android:textAllCaps="false"
+            android:textSize="14sp"/>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginVertical="40dp">
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@drawable/seperate_line"
+                android:layout_toStartOf="@id/orTxt"
+                android:layout_marginEnd="20dp"
+                android:layout_centerVertical="true"
+                android:layout_marginStart="20dp"/>
+            <TextView
+                android:id="@+id/orTxt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Or continue with"
+                android:textStyle="bold"
+                android:textSize="14sp"
+                android:layout_centerInParent="true"/>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@drawable/seperate_line"
+                android:layout_toEndOf="@id/orTxt"
+                android:layout_centerVertical="true"
+                android:rotationY="180"
+                android:layout_marginEnd="20dp"
+                android:layout_marginStart="20dp"/>
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:weightSum="3">
+            <ImageButton
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="match_parent"
+                android:background="@drawable/bg_input_text"
+                android:scaleType="fitCenter"
+                android:adjustViewBounds="true"
+                android:padding="12dp"
+                android:src="@drawable/google"/>
+            <ImageButton
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="match_parent"
+                android:background="@drawable/bg_input_text"
+                android:layout_marginHorizontal="25dp"
+                android:scaleType="fitCenter"
+                android:adjustViewBounds="true"
+                android:padding="10dp"
+                android:src="@drawable/apple"/>
+            <ImageButton
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="match_parent"
+                android:background="@drawable/bg_input_text"
+                android:scaleType="fitCenter"
+                android:adjustViewBounds="true"
+                android:padding="8dp"
+                android:src="@drawable/facebook"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="24dp">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Already have an account?"
+                android:textStyle="bold"
+                android:letterSpacing="0.03"
+                android:textSize="14sp" />
+            <TextView
+                android:id="@+id/switch_signin"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Signin now"
+                android:textStyle="bold"
+                android:textColor="#008cf0"
+                android:layout_marginLeft="5dp"
+                android:letterSpacing="0.03"
+                android:textSize="14sp" />
+        </LinearLayout>
+
+
+    </LinearLayout>
+</RelativeLayout>
