@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_margin="15dp">
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rcv_room"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"/>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true">
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/btn_open_dialog"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/plus"
+            app:tint="@android:color/white"
+            android:layout_gravity="bottom"
+            android:background="@color/white"
+            android:layout_alignParentRight="true"
+            android:backgroundTint="@color/button_main_color"/>
+    </RelativeLayout>
+</RelativeLayout>

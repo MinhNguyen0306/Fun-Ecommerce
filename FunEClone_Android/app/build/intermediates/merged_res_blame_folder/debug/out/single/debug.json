@@ -1,0 +1,662 @@
+[
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\layout_fragment_product_public.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\layout\\fragment_product_public.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_son.jpg.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\son.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\layout_layout_dialog_add_pic_video_step_2.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\layout\\layout_dialog_add_pic_video_step_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_coin.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\coin.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\menu_bottom_nav_menu_item.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\menu\\bottom_nav_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\layout_item_category_selected.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\layout\\item_category_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_address_plus.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\address_plus.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_thungrac.jpg.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\thungrac.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\layout_item_category.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\layout\\item_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\layout_activity_signin.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\layout\\activity_signin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_upload.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\upload.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_bg_input_text.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\bg_input_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_notification.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\notification.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_bg_green_button.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\bg_green_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\layout_layout_bottom_sheet_dialog_choose_image.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\layout\\layout_bottom_sheet_dialog_choose_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\layout_item_product_4.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\layout\\item_product_4.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\layout_fragment_search_result.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\layout\\fragment_search_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\layout_item_cart.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\layout\\item_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_close.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\close.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\layout_fragment_search.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_play.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\play.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_dongho.jpg.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\dongho.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_lock.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\lock.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_gender.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\gender.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_store.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\store.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\layout_item_media_post_detail.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\layout\\item_media_post_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\layout_item_comment.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\layout\\item_comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_count.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\count.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_hoaanhdao.jpg.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\hoaanhdao.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\layout_fragment_joined_room.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\layout\\fragment_joined_room.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_facebook.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_contact_details_bottom.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\contact_details_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_bg_white.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\bg_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\anim_bottom_up.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\anim\\bottom_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_balo.jpg.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\balo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_share.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\share.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_hoacuc.jpg.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\hoacuc.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\layout_layout_dialog_home_add_pic_video.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\layout\\layout_dialog_home_add_pic_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\layout_layout_dialog_home.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\layout\\layout_dialog_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\layout_fragment_account.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\layout\\fragment_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\layout_activity_signup_seller.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\layout\\activity_signup_seller.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_mine.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\mine.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\layout_item_video.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\layout\\item_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_home.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_custom_checkbox.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\custom_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_baseline_arrow_drop_down_24.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\baseline_arrow_drop_down_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\layout_item_currency_selected.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\layout\\item_currency_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_bg_splash_screen.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\bg_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\color_tablayout_selected_color.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\color\\tablayout_selected_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\layout_item_product_2.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\layout\\item_product_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_qr.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\qr.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_eye_close.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\eye_close.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_shopping_cart.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\shopping_cart.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\layout_item_comment_post.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\layout\\item_comment_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_matkinh.jpg.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\matkinh.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_analytics.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\analytics.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_bg_button_outline.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\bg_button_outline.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_wallet.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\wallet.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\layout_item_search_result.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\layout\\item_search_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_bg_indicator.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\bg_indicator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\layout_item_container_video_post.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\layout\\item_container_video_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\layout_fragment_request_join_room.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\layout\\fragment_request_join_room.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_mastercard.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\mastercard.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_location.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\location.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_add_image_icon.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\add_image_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_bottom_radius_bg_main_color.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\bottom_radius_bg_main_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_grid.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\grid.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\layout_fragment_room.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\layout\\fragment_room.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_seperate_line.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\seperate_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_contact_details.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\contact_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\anim_bottom_down.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\anim\\bottom_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\layout_item_post_live_data.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\layout\\item_post_live_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_eye.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\eye.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_bg_white_top_radius.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\bg_white_top_radius.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_minus.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\minus.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_logout.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\layout_layout_dialog_add_pic_video_room.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\layout\\layout_dialog_add_pic_video_room.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_comment.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\comment.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_sale.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\sale.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\layout_fragment_post_detail.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\layout\\fragment_post_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_reset_password.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\reset_password.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\layout_layout_dialog_add_room.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\layout\\layout_dialog_add_room.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\layout_item_add_user.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\layout\\item_add_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\layout_item_child_comment.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\layout\\item_child_comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_music_background.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\music_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_mayanh.jpg.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\mayanh.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\layout_fragment_room_public_post.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\layout\\fragment_room_public_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\layout_fragment_all_room.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\layout\\fragment_all_room.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_search.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\layout_activity_edit_profile.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\layout\\activity_edit_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_group.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\group.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_bg_disable_button.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\bg_disable_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\layout_activity_payment.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\layout\\activity_payment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\raw_delivery.json.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\raw\\delivery.json"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_bg_rounded_button.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\bg_rounded_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_trash.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\trash.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\layout_activity_add_payment.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\layout\\activity_add_payment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_password.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\password.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\layout_item_search_user_result.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\layout\\item_search_user_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_music.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\music.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_update_cover_media.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\update_cover_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_bg_grey.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\bg_grey.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\layout_layout_dialog_bottom_sheet_comment.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\layout\\layout_dialog_bottom_sheet_comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\layout_fragment_room_manage.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\layout\\fragment_room_manage.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_payment.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\payment.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_tainghe2.jpg.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\tainghe2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\layout_activity_order_summary.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\layout\\activity_order_summary.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_heart.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\heart.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_down.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\down.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_bg_main_button.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\bg_main_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\layout_item_currency.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\layout\\item_currency.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_plus.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\plus.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_user.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\layout_layout_dialog_room.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\layout\\layout_dialog_room.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\layout_item_room.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\layout\\item_room.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_giay.jpg.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\giay.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_bg_white_shadow.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\bg_white_shadow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_phone.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\phone.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\layout_activity_live_stream.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\layout\\activity_live_stream.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_bg_input_text_area.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\bg_input_text_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\layout_fragment_product_private.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\layout\\fragment_product_private.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_bottom_nav_item_active.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\bottom_nav_item_active.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_bg_black_button.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\bg_black_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\layout_fragment_upload_product.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\layout\\fragment_upload_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\layout_activity_checkout.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\layout\\activity_checkout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\layout_item_product_1.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\layout\\item_product_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\layout_activity_video_post.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\layout\\activity_video_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_email.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\email.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_back.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_scissors.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\scissors.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_plus_round.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\plus_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\layout_layout_dialog_room_action.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\layout\\layout_dialog_room_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_tainghe.jpg.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\tainghe.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_calendar.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\calendar.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_apple.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\apple.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\layout_item_video_grid.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\layout\\item_video_grid.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\layout_activity_product_detail.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\layout\\activity_product_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_drawable_end_master_card.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\drawable_end_master_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\layout_fragment_room_private_post.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\layout\\fragment_room_private_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\layout_item_payment.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\layout\\item_payment.xml"
+    },
+    {
+        "merged": "com.example.funeclone_nhom8.app-merged_res-41:/layout_fragment_joined_room.xml.flat",
+        "source": "com.example.funeclone_nhom8.app-main-43:/layout/fragment_joined_room.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\layout_activity_cart.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\layout\\activity_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-merged_res-41:\\drawable_google.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.5\\com.example.funeclone_nhom8.app-main-43:\\drawable\\google.png"
+    }
+]
